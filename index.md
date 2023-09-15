@@ -18,7 +18,7 @@
     <li>
         <strong>SQDroid: A semantic-driven testing for Android apps via Q-learning</strong><br>
         <b>Guo Hui<sup>#</sup></b>, Xiaoqiang Liu<sup>*</sup>, Baiyan Li, Lizhi Cai, Yun Hu, Jing Cao <br>
-        <a href="https://qrs21.techconf.org">QRS 2021</a>, <a href="https://guohui404.github.io/pdf/SQDroid.pdf">pdf</a>, <font color="red" ,="" size="1">[CCF-C]</font>
+        <a href="https://qrs21.techconf.org">QRS 2021</a>, <a href="https://guohui404.github.io/pdf/SQDroid.pdf">pdf</a>, <font color="red", size="1">[CCF-C]</font>
     </li>
 </ol>
 
@@ -27,6 +27,6 @@
     <li>
         <strong>Effectively Finding ICC-related Bugs in Android Apps via Reinforcement Learning</strong><br>
         <b>Guo Hui<sup>#</sup></b>, Ting Su<sup>*</sup>, Xiaoqiang Liu<sup>*</sup>, Siyi Gu, Jingling Sun <br>
-        <a href="https://qrs21.techconf.org">ISSRE 2023</a>, <a href="https://guohui404.github.io/pdf/ICCDroid.pdf">pdf</a>, <font color="red" ,="" size="1">[CCF-B]</font>
+        <a href="https://qrs21.techconf.org">ISSRE 2023</a>, <a href="https://guohui404.github.io/pdf/ICCDroid.pdf">pdf</a>, <font color="red", size="1">[CCF-B]</font>
     </li>
 </ol>
