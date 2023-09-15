@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
     <img src="https://guohui404.github.io/images/gh.jpg" width=25%/>
-</div>
+</div> -->
 
 ## 个人资料
 - 姓名：郭辉
