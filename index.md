@@ -1,5 +1,5 @@
 <div align="center">
-    <!-- <img src=./images/gh.jpg width=25%/> -->
+    <img src=./images/gh.jpg width=25%/>
 </div>
 
 ## 个人资料
